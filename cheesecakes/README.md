@@ -13,7 +13,7 @@
 
 **1 —** Clone the repository.
 ```bash
-git clone git@github.com:strapi/strapi-examples.git
+git clone https://github.com/strapi/strapi-examples
 ```
 
 **2 —** Go to the `cheesecakes` example and install the dependencies.
